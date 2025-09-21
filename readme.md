@@ -5,6 +5,10 @@ It was created as a practice exercise (based on a [roadmap.sh](https://roadmap.s
 
 ---
 
+## Live site:
+https://erenshoyo.github.io/RoadmapSH-Project-Custom-DropDown-/ 
+
+
 ## Features
 
 - Default state with placeholder text (`Select an item`).
@@ -39,3 +43,4 @@ It was created as a practice exercise (based on a [roadmap.sh](https://roadmap.s
   button.addEventListener("click", () => {
     list.classList.toggle("hidden");
   });
+
